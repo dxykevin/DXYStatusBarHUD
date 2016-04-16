@@ -20,3 +20,7 @@
 ```objc
     [DXYStatusBarHUD hide];
 ```
+```objc
+传的是UIImage参数
+[DXYStatusBarHUD showMessage:@"自定义" image:nil];
+```
